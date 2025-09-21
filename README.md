@@ -1,2 +1,2 @@
 # pwn.mit.samiya
-crypotonite
+cryptonite
